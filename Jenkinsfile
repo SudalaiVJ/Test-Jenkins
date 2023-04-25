@@ -12,6 +12,7 @@ pipeline {
             steps {
                 echo "Hello World, Hai"
                 echo "Hai How are"
+                echo "sudalaivijay"
             }
             
         }
