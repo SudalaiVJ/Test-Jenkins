@@ -13,6 +13,7 @@ pipeline {
                 echo "Hello World, Hai"
                 echo "Hai How are"
                 echo "sudalaivijay"
+                echo "selvakumar"
             }
             
         }
